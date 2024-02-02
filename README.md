@@ -16,7 +16,7 @@
 
 ### High Level Components
 ```mermaid
-flowchart TB
+flowchart LR
 
 A(1. Assustant/Agent)
 --> T(2. Thread)
