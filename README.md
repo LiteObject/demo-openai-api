@@ -56,3 +56,5 @@ run = client.beta.threads.runs.retrieve(thread_id=thread.id, run_id=run.id)
 ## References:
 - [OpenAI Assistants API](https://platform.openai.com/docs/assistants/overview)
 - [OpenAI Python Code Examples](https://github.com/openai/openai-python/blob/main/examples)
+- [GPT Guide](https://platform.openai.com/docs/guides/text-generation)
+- [Visit the OpenAI Cookbook for in-depth example API use-cases, as well as code snippets for common tasks.](https://cookbook.openai.com/)
